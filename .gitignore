@@ -1,0 +1,15 @@
+# Backend
+server/node_modules/
+server/.env
+server/logs/
+server/.DS_Store
+
+# Frontend
+shop/node_modules/
+shop/.env
+shop/build/
+
+# Системні файли
+*.log
+.DS_Store
+.env
